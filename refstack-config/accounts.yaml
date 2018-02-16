@@ -1,4 +1,8 @@
-- username: 'admin'
-  tenant_name: 'admin'
-  password: 'password'
+#- username: 'admin'
+#  tenant_name: 'admin'
+#  password: 'password'
+
+- username: 'demo'
+  tenant_name: 'demo'
+  password: 'demo'
 
